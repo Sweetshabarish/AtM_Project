@@ -1,7 +1,9 @@
 package Atm2;
 
 import java.util.Scanner;
-
+/*
+ * Dependency inversion principle is used 
+ */
 
 public class LogicClass {
 	private static Scanner sc=new Scanner(System.in);//Getting scanner ,for taking input from  the user
