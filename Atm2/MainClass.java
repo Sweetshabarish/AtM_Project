@@ -3,7 +3,9 @@ package Atm2;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
+/*
+ * Dependancy inversion principle
+ */
 
 public class MainClass {
 	public static void main(String[] args) {
