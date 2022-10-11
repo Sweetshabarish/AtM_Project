@@ -2,7 +2,9 @@ package Atm2;
 
 import java.util.Scanner;
 
-
+/*
+ * here Single responsiblity priciple is used and Liskov principle (Because as the rule post condition says,need to call particular /nedded method to call
+ */
 
 public class Withdraw extends DisplayBalance {//Main Class Extends Abstract Class ,which that includes method called display ,which going to display the balance 
 	
