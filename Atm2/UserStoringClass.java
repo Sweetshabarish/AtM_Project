@@ -10,7 +10,7 @@ public class UserStoringClass {
 		Scanner s=new Scanner(System.in);
 		// UserClass(String UserName,String UserATMNumber,String UserPassword)
 	/*
-	 * Adding the details to the user for storing the data
+	 * Adding the details to the user for storing the data and open closed principle is used
 	 */
 		static UserClass Person1=new UserClass("Shabarish","109290120189","6122",1000,"SavingAccount");
 		static UserClass Person2=new UserClass("Ramesh","8672877377","1267",500,"SavingAccount");
