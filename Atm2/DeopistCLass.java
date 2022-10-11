@@ -2,7 +2,9 @@ package Atm2;
 
 import java.util.Scanner;
 
-
+/*
+ * here Single responsiblity priciple is used and  Liskov principle (Because as the rule post condition says,need to call particular /nedded method to call
+ */
 
 public class DeopistCLass extends DisplayBalance{//Main Class Extends Abstract Class ,which that includes method called display ,which going to display the balance 
 	Scanner inputreader=new Scanner(System.in);//Getting scanner ,for taking input from  the user
